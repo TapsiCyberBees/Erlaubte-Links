@@ -1,5 +1,5 @@
 # Erlaubte-Links
-Hier findes du alle Erlaubten Links für unseren [Server]()
+Hier findes du alle Erlaubten Links für unseren [Server]().
 
 # 📷 Social Media
 
