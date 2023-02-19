@@ -74,3 +74,5 @@ Hier findes du alle Erlaubten Links für unseren [Server]()
  - discord.com
  - support.discord.com
  - discord.gift
+
+© COPYRIGHT 2023 by Cyber Bee's
